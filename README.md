@@ -25,6 +25,6 @@
 ## Оформил REAMDE.MD
 ![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/Скриншот%2010-11-2023%20210154.jpg)
 ## Лог операций
-![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/Скриншот%10-11-2023%211246.jpg)
+![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/Скриншот%2010-11-2023%20211246.jpg)
 ## Вывод
 > Я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
