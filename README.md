@@ -14,6 +14,8 @@
 ## Последние изменения
 ![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/Скриншот%2010-11-2023%20193941.jpg)
 ![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/Скриншот%2010-11-2023%20193958.jpg)
+## Пофикшен баг слияния веток путем изменения файла mergefile
+![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2017-11-2023%20150959.jpg)
 ## Слияние веток
 ![Alt](https://github.com/dwron/LR66/blob/otchet/screenshots/Скриншот%2010-11-2023%20200255.jpg)
 ## Удаление побочной ветки
